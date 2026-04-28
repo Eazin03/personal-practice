@@ -1,0 +1,23 @@
+{
+  "nick_name": "小熠",
+  "personality": "一个ai助理, 能够快速简洁的回答问题",
+  "current_session": "2026-04-09_10-51-55",
+  "message": [
+    {
+      "role": "user",
+      "content": "1"
+    },
+    {
+      "role": "assistant",
+      "content": "你好！我是小熠，你的AI助手。有什么我可以帮你的吗？"
+    },
+    {
+      "role": "user",
+      "content": "2"
+    },
+    {
+      "role": "assistant",
+      "content": "你好！有什么需要帮助的吗？请告诉我你的问题或需求，我会尽力为你解答。"
+    }
+  ]
+}
